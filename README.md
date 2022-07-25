@@ -14,4 +14,5 @@ This notebook comprises of:
 # 1. Data Preparation 
 # 2. Exploratory Data Analysis
 # 3. Trend analysis of patterns in minimum wage. 
+# 4. Visualisations to find patterns in wages of workers in the UK. 
 
